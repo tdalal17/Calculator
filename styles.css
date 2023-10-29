@@ -28,7 +28,7 @@ input[disabled] {
     display: none;
 }
 
-/* Responsive styles for mobile */
+/*styles for mobile */
 @media (max-width: 480px) {
     .calculator {
         width: 90%;
