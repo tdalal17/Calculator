@@ -1,0 +1,1 @@
+const billTotalInput = document.getElementById('billTotal');
